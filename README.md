@@ -1,15 +1,15 @@
-**E-commerce Application**
+# E-commerce Application
 
 This JavaScript-based shopping cart application provides a simple shopping experience.
 
-**Key Features:**
+## Key Features:
 
 * **Product Display:** Dynamically displays products from a JSON data source.
 * **Add to Cart:** Allows users to add products to their cart.
 * **Cart Management:** Enables users to view, modify, and clear their cart.
 * **Local Storage:** Stores cart data locally for persistence.
 
-**Technical Implementation:**
+## Technical Implementation:
 
 - **Frontend:** Built using HTML, CSS, and JavaScript.
 - **Product Data:** Fetches product information from a JSON file.
